@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I’m [Your Name]  
+# 👋 Hi, I’m Rahul Kumar  
 ### 🚀 Frontend Developer | JavaScript Enthusiast  
 
 🔹 I am a passionate **Frontend Developer** with expertise in **HTML, CSS, JavaScript, and React**.  
